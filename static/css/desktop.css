@@ -1,0 +1,34 @@
+html {
+	background: #FFFFFF;
+}
+
+header {
+	margin-top: 32px;
+	height: 225px;
+}
+
+header nav {
+	width: 500px;
+}
+
+header nav a {
+	line-height: 225px;
+}
+
+header nav a div {
+	font-size: 30px;
+}
+
+header #logo {
+	margin-left: 40px;
+	margin-top: 32px;
+}
+
+header #logo img {
+	max-width: 256px;
+}
+
+article {
+	padding: 64px;
+	margin-bottom: 32px;
+}

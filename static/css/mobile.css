@@ -1,0 +1,33 @@
+html {
+	background: #FCF6ED;
+}
+
+header {
+	height: 140px;
+}
+
+header nav {
+	width: 60vw;
+}
+
+header nav a {
+	line-height: 140px;
+}
+
+header nav a div {
+	font-size: 20px;
+}
+
+header #logo {
+	margin-left: 20px;
+	margin-top: 16px;
+}
+
+header #logo img {
+	max-width: 40vw;
+}
+
+article {
+	padding: 32px;
+	margin-top: 64px;
+}
