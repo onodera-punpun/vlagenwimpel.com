@@ -23,3 +23,4 @@ Volg Vlag & Wimpel op sociale media:
 
 * [Twitter](https://twitter.com/VlagNWimpel/)
 * [Instagram](https://www.instagram.com/vlagnwimpel/)
+* [Telegram](https://t.me/vlagnwimpel)
